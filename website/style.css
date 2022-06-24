@@ -1,0 +1,14 @@
+body{
+    background-image:url(./pattarn.png);
+    background-color:#000000;
+    
+    position: relative;
+}
+#header{
+    height:120vh !important;
+}
+
+p{
+    text-align:justify;
+}
+
